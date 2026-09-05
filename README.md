@@ -16,7 +16,15 @@
 
 ## 安装
 
-将技能目录复制到 Codex 的个人技能目录：
+推荐直接在 Codex 中发送：
+
+```text
+使用 $skill-installer 从 https://github.com/zmy-devs/ym-skill/tree/main/skills/ym-rules 安装这个 Skill。
+```
+
+安装完成后，下一轮对话即可使用。
+
+也可以手动将技能目录复制到 Codex 的个人技能目录：
 
 ```powershell
 git clone https://github.com/zmy-devs/ym-skill.git
