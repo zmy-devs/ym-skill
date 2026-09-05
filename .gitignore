@@ -1,4 +1,3 @@
 .agents
-test/*
+node_modules
 
-Task.md

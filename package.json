@@ -1,0 +1,37 @@
+{
+  "name": "ym-skill",
+  "version": "1.0.0",
+  "description": "适用于 TypeScript、JavaScript、React、Vue 3、HTML 与 Tailwind CSS v4 的个人 Codex 开发规则。",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": [
+    "codex",
+    "skill",
+    "typescript",
+    "react",
+    "vue",
+    "tailwindcss"
+  ],
+  "author": {
+    "name": "张铭洋",
+    "email": "2514765066@qq.com",
+    "url": "https://github.com/zmy-devs"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/zmy-devs/ym-skill#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmy-devs/ym-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zmy-devs/ym-skill/issues"
+  },
+  "type": "module",
+  "packageManager": "pnpm@11.20.0",
+  "devDependencies": {
+    "prettier": "^3.9.6"
+  }
+}
