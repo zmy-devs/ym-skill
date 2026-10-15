@@ -1,4 +1,4 @@
 interface:
-  display_name: 'YM 开发规则'
-  short_description: '统一 TypeScript、React、Vue、Tailwind 与中文技术回复规范'
-  default_prompt: '使用 $ym-rules 按我的开发规则实现这项改动。'
+  display_name: 'YM 前端开发与自审规范'
+  short_description: '按需应用 TypeScript、React、Vue 与 Tailwind 规范，实现后自审并修复'
+  default_prompt: '使用 $ym-rules 按我的前端规范完成这项改动，并在交付前自审、修复和复查。'
